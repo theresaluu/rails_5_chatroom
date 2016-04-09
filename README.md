@@ -1,24 +1,4 @@
-## README
+## Chatroom App to Demonstrate Action Cables and Active Job (Rails 5)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Source: http://tutorials.pluralsight.com/ruby-ruby-on-rails/creating-a-chat-using-rails-action-cable
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
